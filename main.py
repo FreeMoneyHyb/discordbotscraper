@@ -32,6 +32,6 @@ else:
      with open(f'{"servers.txt"}', 'a+') as f:
        f.write(f'{notgay}\n')
      with open(f'{"serversWinvite.txt"}', 'a+') as f:
-       f.write(f'https://discord.com/oauth2/authorize?client_id={notgay}&permissions=0&scope=applications.commands%20bot j\n')
+       f.write(f'https://discord.com/oauth2/authorize?client_id={notgay}&permissions=0&scope=applications.commands%20bot \n')
        
  
